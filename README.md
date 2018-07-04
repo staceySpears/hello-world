@@ -1,2 +1,4 @@
 # hello-world
-ideas, resources, share and discuss
+
+Grow with Google_Udacity Front-End Developer Nanodegree
+#codenewbie
